@@ -1,0 +1,154 @@
+{
+  "company_profile": {
+    "digitise_logistics": "数字化物流",
+    "connect_supply_chain": "连接供应链",
+    "run_your_business": "在云端跨地区和市场运营您的业务，无需技术人员。每月固定费用，无锁定合同，随时取消。",
+    "common_question": "常见问题",
+    "monthly_fee_description": "我们收取每月费用，涵盖我们的软件和服务。",
+    "cancel_subscription_30_days": "提前30天取消订阅。",
+    "access_modules_description": "无需担心，您仍然可以登录并访问所有已建立的模块、功能、工具和定制解决方案，但无法访问更新、定制、编辑、API 拉取/推送。",
+    "resubscribe_for_support": "您需要重新订阅才能获得IT支持。请联系我们的客户支持以获取进一步帮助。",
+    "cancel_subscription_effects": "如果我取消并停止支付LogLines费用，会发生什么？",
+    "post_cancel_support_access": "取消订阅后，我还能访问IT支持吗？",
+    "access_subscribe_page": "您可以访问",
+    "cancel_subscription_info": "如果您想在软件已满足您的需求后停止订阅，您可以联系客户支持。",
+    "customer_support_prompt": "找不到您需要的答案？联系我们的",
+    "customer_support_team": "客户支持团队",
+    "subscribe_page": "订阅页面",
+    "enter_portal": "进入门户",
+    "improve_efficiency": "提高效率和准确性，以",
+    "automate_workflows": "自动化工作流",
+    "easily": "轻松",
+    "connect_your": "连接您的",
+    "system_operations": "系统操作",
+    "streamline_data": "简化数据",
+    "seamless_operations": "实现无缝操作",
+    "core_platform": "核心平台",
+    "plug_and_play_solution": "即插即用解决方案",
+    "prebuilt_tools_services": "通过我们的预建工具和服务，您可以专注于构建出色的应用程序，同时仍具有根据需要编译平台的灵活性，我们将处理服务器、数据库和安全性的重负荷。加速您的市场推广，降低成本，并轻松扩展您的业务。",
+    "complete_operation_workflow": "完整的操作工作流",
+    "prebuilt_interface": "预建界面",
+    "no_code_required": "无需编码",
+    "all_in_one_features": "一体化功能",
+    "integration_platform": "集成平台",
+    "connect_multiple_systems": "连接多个系统并在一个地方操作",
+    "integration_platform_desc": "我们将连接您的分散系统，自动化手动任务，并提供实时的运营洞察。通过消除数据孤岛和简化工作流，您可以降低成本、改善决策并提高客户满意度。",
+    "integration_support": "集成支持",
+    "middleware_to_multiple_systems": "连接多个系统的中间件",
+    "real_time_syncronisation": "实时同步",
+    "data_conversions": "数据转换",
+    "custom_service": "定制服务",
+    "design_own_platform": "设计并拥有您的平台",
+    "custom_service_desc": "我们将与您紧密合作，了解您的具体需求，开发定制化的解决方案，推动您的业务发展。从定制的软件开发到强大的IT基础设施，您将有灵活性拥有您的技术栈并保持控制。",
+    "team_allocation": "团队分配",
+    "pre_build_components": "预构建组件",
+    "solution_analysis": "解决方案分析",
+    "integration_consultations": "集成咨询",
+    "integration_partners": "集成伙伴",
+    "integration_partners_desc": "LogLines无缝集成到您现有的ERP中，释放数据的全部潜力。通过自动化数据连接和实时同步各系统之间的洞察。",
+    "partners_page": "合作伙伴页面",
+    "plans_your_plan": "计划您的方案",
+    "plan_your_solution": "通过几个简单的点击选项计划您的解决方案，并查看定价。",
+    "pricing_plans": "定价计划",
+    "privacy_policy": "隐私政策",
+    "email_us": "联系我们",
+    "solutions": {
+      "manufacturing": {
+        "label": "制造业",
+        "content": {
+          "procument_management": {
+            "title": "采购管理",
+            "desc": "供应商选择、采购订单创建、物料管理等"
+          },
+          "inventory_management": {
+            "title": "库存管理",
+            "desc": "包装、仓储、运输调度等"
+          },
+          "production_management": {
+            "title": "生产管理",
+            "desc": "生产调度、物料处理、质量控制等"
+          },
+          "cs_support": {
+            "title": "客户服务与支持管理",
+            "desc": "客户咨询、退货与维修、售后支持等"
+          }
+        }
+      },
+      "distribution": {
+        "label": "分销",
+        "content": {
+          "order_processing": {
+            "title": "订单处理",
+            "desc": "订单接收、订单验证、库存检查等"
+          },
+          "order_fulfillment": {
+            "title": "订单履行",
+            "desc": "拣货、包装、贴标等"
+          },
+          "shipping_transport": {
+            "title": "运输与配送",
+            "desc": "承运人选择、贴标、运输文件等"
+          },
+          "delivery_reception": {
+            "title": "交付与接收",
+            "desc": "交付到目的地、签字确认、退货处理等"
+          },
+          "delivery_activities": {
+            "title": "交付后活动",
+            "desc": "发票生成、支付处理、客户服务等"
+          }
+        }
+      },
+      "logistics": {
+        "label": "物流",
+        "content": {
+          "order_booking": {
+            "title": "订单预订与规划",
+            "desc": "订单接收、承运人选择、文件准备等"
+          },
+          "order_fulfillment": {
+            "title": "订单履行",
+            "desc": "订单拣货、订单包装、贴标等"
+          },
+          "good_receipt": {
+            "title": "收货",
+            "desc": "接收、检查、存放等"
+          },
+          "shipping_transport": {
+            "title": "运输与配送",
+            "desc": "模式选择、预订、跟踪与追踪等"
+          },
+          "delivery_customs": {
+            "title": "交付与海关清关",
+            "desc": "交付到目的地港口、海关清关、最终交付等"
+          },
+          "documentation_invoice": {
+            "title": "文档与开票",
+            "desc": "文档处理、发票生成、支付收取等"
+          },
+          "inventory_management": {
+            "title": "库存管理",
+            "desc": "库存控制、盘点、库存补充等"
+          },
+          "value_services": {
+            "title": "增值服务",
+            "desc": "组装与配套、贴标与包装、退货处理等"
+          }
+        }
+      },
+      "enterprise": {
+        "label": "企业",
+        "content": {
+          "human_resource": {
+            "title": "人事",
+            "desc": "人才管理、考勤与出勤管理、福利管理等"
+          },
+          "accounting_finance": {
+            "title": "会计与财务",
+            "desc": "银行连接、发票开具、银行对账等"
+          }
+        }
+      }
+    }
+  }
+}

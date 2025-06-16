@@ -1,0 +1,154 @@
+{
+  "company_profile": {
+    "digitise_logistics": "數位化物流",
+    "connect_supply_chain": "連接供應鏈",
+    "run_your_business": "在雲端跨地區和市場運營您的業務，無需技術人員。每月固定費用，無鎖定合約，隨時取消。",
+    "common_question": "常見問題",
+    "monthly_fee_description": "我們收取每月費用，涵蓋我們的軟體和服務。",
+    "cancel_subscription_30_days": "提前30天取消訂閱。",
+    "access_modules_description": "無需擔心，您仍然可以登入並訪問所有已建立的模組、功能、工具和客製化解決方案，但無法訪問更新、客製化、編輯、API 拉取/推送。",
+    "resubscribe_for_support": "您需要重新訂閱才能獲得IT支援。請聯繫我們的客戶支持以獲得進一步幫助。",
+    "cancel_subscription_effects": "如果我取消並停止支付LogLines費用，會發生什麼？",
+    "post_cancel_support_access": "取消訂閱後，我還能訪問IT支援嗎？",
+    "access_subscribe_page": "您可以訪問",
+    "cancel_subscription_info": "如果您想在軟體已滿足您的需求後停止訂閱，您可以聯繫客戶支持。",
+    "customer_support_prompt": "找不到您需要的答案？請聯繫我們的",
+    "customer_support_team": "客戶支持團隊",
+    "subscribe_page": "訂閱頁面",
+    "enter_portal": "進入門戶",
+    "improve_efficiency": "提高效率和準確性，以",
+    "automate_workflows": "自動化工作流",
+    "easily": "輕鬆",
+    "connect_your": "連接您的",
+    "system_operations": "系統運作",
+    "streamline_data": "簡化數據",
+    "seamless_operations": "實現無縫運作",
+    "core_platform": "核心平台",
+    "plug_and_play_solution": "即插即用解決方案",
+    "prebuilt_tools_services": "通過我們的預建工具和服務，您可以專注於構建出色的應用程式，同時仍具有根據需求編譯平台的靈活性，我們將處理伺服器、資料庫和安全性的重負荷。加速您的市場推廣，降低成本，並輕鬆擴展您的業務。",
+    "complete_operation_workflow": "完整的操作工作流",
+    "prebuilt_interface": "預建介面",
+    "no_code_required": "無需程式碼",
+    "all_in_one_features": "一體化功能",
+    "integration_platform": "整合平台",
+    "connect_multiple_systems": "連接多個系統並在一個地方操作",
+    "integration_platform_desc": "我們將連接您的分散系統，自動化手動任務，並提供即時的運營洞察。通過消除數據孤島和簡化工作流，您可以降低成本、改善決策並提高客戶滿意度。",
+    "integration_support": "整合支援",
+    "middleware_to_multiple_systems": "中介軟體連接多個系統",
+    "real_time_syncronisation": "即時同步",
+    "data_conversions": "數據轉換",
+    "custom_service": "客製化服務",
+    "design_own_platform": "設計並擁有您的平台",
+    "custom_service_desc": "我們將與您緊密合作，了解您的具體需求，開發客製化的解決方案，推動您的業務發展。從客製化的軟體開發到強大的IT基礎設施，您將有靈活性擁有您的技術堆疊並保持控制。",
+    "team_allocation": "團隊分配",
+    "pre_build_components": "預建組件",
+    "solution_analysis": "解決方案分析",
+    "integration_consultations": "整合諮詢",
+    "integration_partners": "整合夥伴",
+    "integration_partners_desc": "LogLines無縫集成到您現有的ERP中，釋放數據的全部潛力。通過自動化數據連接和即時同步各系統之間的洞察。",
+    "partners_page": "合作夥伴頁面",
+    "plans_your_plan": "計劃您的方案",
+    "plan_your_solution": "通過幾個簡單的點擊選項計劃您的解決方案，並查看定價。",
+    "pricing_plans": "定價計劃",
+    "privacy_policy": "隱私政策",
+    "email_us": "聯繫我們",
+    "solutions": {
+      "manufacturing": {
+        "label": "製造業",
+        "content": {
+          "procument_management": {
+            "title": "採購管理",
+            "desc": "供應商選擇、採購訂單創建、物料管理等"
+          },
+          "inventory_management": {
+            "title": "庫存管理",
+            "desc": "包裝、倉儲、運輸調度等"
+          },
+          "production_management": {
+            "title": "生產管理",
+            "desc": "生產調度、物料處理、質量控制等"
+          },
+          "cs_support": {
+            "title": "客戶服務與支持管理",
+            "desc": "客戶查詢、退貨與維修、售後支持等"
+          }
+        }
+      },
+      "distribution": {
+        "label": "分銷",
+        "content": {
+          "order_processing": {
+            "title": "訂單處理",
+            "desc": "訂單接收、訂單驗證、庫存檢查等"
+          },
+          "order_fulfillment": {
+            "title": "訂單履行",
+            "desc": "揀貨、包裝、標籤等"
+          },
+          "shipping_transport": {
+            "title": "運輸與配送",
+            "desc": "承運人選擇、標籤、運輸文件等"
+          },
+          "delivery_reception": {
+            "title": "交付與接收",
+            "desc": "交付到目的地、簽名確認、退貨處理等"
+          },
+          "delivery_activities": {
+            "title": "交付後活動",
+            "desc": "發票生成、支付處理、客戶服務等"
+          }
+        }
+      },
+      "logistics": {
+        "label": "物流",
+        "content": {
+          "order_booking": {
+            "title": "訂單預訂與規劃",
+            "desc": "訂單接收、承運人選擇、文件準備等"
+          },
+          "order_fulfillment": {
+            "title": "訂單履行",
+            "desc": "訂單揀貨、訂單包裝、標籤等"
+          },
+          "good_receipt": {
+            "title": "收貨",
+            "desc": "接收、檢查、存放等"
+          },
+          "shipping_transport": {
+            "title": "運輸與配送",
+            "desc": "模式選擇、預訂、追蹤與追查等"
+          },
+          "delivery_customs": {
+            "title": "交付與海關清關",
+            "desc": "交付到目的地港口、海關清關、最終交付等"
+          },
+          "documentation_invoice": {
+            "title": "文檔與開票",
+            "desc": "文檔處理、發票生成、支付收取等"
+          },
+          "inventory_management": {
+            "title": "庫存管理",
+            "desc": "庫存控制、盤點、庫存補充等"
+          },
+          "value_services": {
+            "title": "增值服務",
+            "desc": "組裝與配套、標籤與包裝、退貨處理等"
+          }
+        }
+      },
+      "enterprise": {
+        "label": "企業",
+        "content": {
+          "human_resource": {
+            "title": "人力資源",
+            "desc": "人才管理、考勤與出勤管理、福利管理等"
+          },
+          "accounting_finance": {
+            "title": "會計與財務",
+            "desc": "銀行連接、發票開具、銀行對賬等"
+          }
+        }
+      }
+    }
+  }
+}
